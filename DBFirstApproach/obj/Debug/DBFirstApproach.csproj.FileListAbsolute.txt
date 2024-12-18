@@ -1,0 +1,12 @@
+C:\C# Interview Practice\DBFirstApproach\DBFirstApproach\bin\Debug\DBFirstApproach.exe.config
+C:\C# Interview Practice\DBFirstApproach\DBFirstApproach\bin\Debug\DBFirstApproach.exe
+C:\C# Interview Practice\DBFirstApproach\DBFirstApproach\bin\Debug\DBFirstApproach.pdb
+C:\C# Interview Practice\DBFirstApproach\DBFirstApproach\bin\Debug\EntityFramework.dll
+C:\C# Interview Practice\DBFirstApproach\DBFirstApproach\bin\Debug\EntityFramework.SqlServer.dll
+C:\C# Interview Practice\DBFirstApproach\DBFirstApproach\bin\Debug\EntityFramework.xml
+C:\C# Interview Practice\DBFirstApproach\DBFirstApproach\bin\Debug\EntityFramework.SqlServer.xml
+C:\C# Interview Practice\DBFirstApproach\DBFirstApproach\obj\Debug\DBFirstApproach.csproj.AssemblyReference.cache
+C:\C# Interview Practice\DBFirstApproach\DBFirstApproach\obj\Debug\DBFirstApproach.csproj.CoreCompileInputs.cache
+C:\C# Interview Practice\DBFirstApproach\DBFirstApproach\obj\Debug\DBFirstA.E3239A62.Up2Date
+C:\C# Interview Practice\DBFirstApproach\DBFirstApproach\obj\Debug\DBFirstApproach.exe
+C:\C# Interview Practice\DBFirstApproach\DBFirstApproach\obj\Debug\DBFirstApproach.pdb

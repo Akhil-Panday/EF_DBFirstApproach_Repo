@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C# Interview Practice\\DBFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCDA9D1-212B-4F3E-82EC-D67C673EB600}|DBFirstApproach\\DBFirstApproach.csproj|c:\\c# interview practice\\dbfirstapproach\\dbfirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCDA9D1-212B-4F3E-82EC-D67C673EB600}|DBFirstApproach\\DBFirstApproach.csproj|solutionrelative:dbfirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCDA9D1-212B-4F3E-82EC-D67C673EB600}|DBFirstApproach\\DBFirstApproach.csproj|c:\\c# interview practice\\dbfirstapproach\\dbfirstapproach\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1CCDA9D1-212B-4F3E-82EC-D67C673EB600}|DBFirstApproach\\DBFirstApproach.csproj|solutionrelative:dbfirstapproach\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\C# Interview Practice\\DBFirstApproach\\DBFirstApproach\\App.config",
+              "RelativeDocumentMoniker": "DBFirstApproach\\App.config",
+              "ToolTip": "C:\\C# Interview Practice\\DBFirstApproach\\DBFirstApproach\\App.config",
+              "RelativeToolTip": "DBFirstApproach\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-17T08:45:08.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# Interview Practice\\DBFirstApproach\\DBFirstApproach\\Program.cs",
+              "RelativeDocumentMoniker": "DBFirstApproach\\Program.cs",
+              "ToolTip": "C:\\C# Interview Practice\\DBFirstApproach\\DBFirstApproach\\Program.cs",
+              "RelativeToolTip": "DBFirstApproach\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:36:34.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
